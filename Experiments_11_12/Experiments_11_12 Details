@@ -1,0 +1,11 @@
+# ### Experiment 11
+# ### NeuralRL/Bandit Controllers with Neural RL Agents
+# #### NeuralRL Controller state input is the average reward across all tasks
+
+# ### Experiment 11.5
+# ### NeuralRL/Bandit Controllers with Neural RL Agents
+# #### NeuralRL Controller state input is the buffer of all tasks
+
+# ### Experiment 12
+# ### NeuralRL/Bandit Controllers with Neural RL Agents
+# #### NeuralRL Controller state input is the current reward across all tasks 

@@ -1,0 +1,22 @@
+# ### Experiment 1
+# ### NeuralRL/Bandit Controllers with NonNeural RL Agents
+# #### NeuralRL Controller state input is the average reward across all tasks
+# #### NeuralRL Controller does not have inventory as input
+
+
+# ### Experiment 2.5
+# ### NeuralRL/Bandit Controllers with NonNeural RL Agents
+# #### NeuralRL Controller state input is the buffer reward across all tasks 
+# #### NeuralRL Controller does not have inventory as input
+
+
+# ### Experiment 3
+# ### NeuralRL/Bandit Controllers with NonNeural RL Agents
+# #### NeuralRL Controller state input is the average reward across all tasks 
+# #### NeuralRL Controller also has inventory as input
+
+
+# ### Experiment 4
+# ### NeuralRL/Bandit Controllers with NonNeural RL Agents
+# #### NeuralRL Controller state input is the buffer reward across all tasks 
+# #### NeuralRL Controller also has inventory as input
